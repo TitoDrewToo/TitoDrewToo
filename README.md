@@ -66,7 +66,7 @@ Google Maps SDK · AdMob · Git · REST APIs
 
 Open to collaboration, product development opportunities, and technical consulting.
 
-LinkedIn: *(add later)*
+LinkedIn: https://www.linkedin.com/in/andrew-vincent-nilooban-24118a39/
 
 ---
 
