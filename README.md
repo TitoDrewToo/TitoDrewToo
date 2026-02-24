@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I’m Andrew Vincent 👋
 
-<!--
-**TitoDrewToo/TitoDrewToo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile developer building real-time community and marketplace platforms.
 
-Here are some ideas to get you started:
+I design and ship production-ready mobile systems that connect people, enable real-time interaction, and power local communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🏀 Hooper
+Real-time basketball community platform enabling live player check-ins, court discovery, and social coordination.
+
+**Highlights**
+- Live player count & real-time updates
+- Court-specific messaging & threads
+- Google Maps integration
+- Supabase realtime infrastructure
+
+**Tech:** React Native · Supabase · PostgreSQL · Google Maps SDK
+
+👉 https://github.com/TitoDrewToo/hooper-app
+
+---
+
+### 🏓 PicklePal
+Multi-vendor court booking marketplace with payment workflows, commission tracking, and analytics.
+
+**Highlights**
+- Real-time court availability & booking
+- Marketplace commission & reconciliation system
+- Venue staff permissions & management
+- Analytics & reporting architecture
+
+**Tech:** React Native · Supabase · PostgreSQL · Payment workflow design
+
+👉 https://github.com/TitoDrewToo/picklepal-app
+
+---
+
+## 🧠 Technical Focus
+
+- Cross-platform mobile development (React Native)
+- Real-time systems & live data synchronization
+- PostgreSQL relational database architecture
+- Marketplace & booking system design
+- Payment workflows & transaction tracking
+- Community-driven platform design
+
+---
+
+## 🌏 Currently Building
+
+Community-driven sports platforms focused on real-time engagement and local network growth.
+
+---
+
+## 🛠 Tools & Technologies
+
+React Native · TypeScript · Supabase · PostgreSQL  
+Google Maps SDK · AdMob · Git · REST APIs  
+
+---
+
+## 📫 Contact
+
+Open to collaboration, product development opportunities, and technical consulting.
+
+LinkedIn: *(add later)*
+
+---
+
+⭐ Building platforms that bring people together through sport & community.
