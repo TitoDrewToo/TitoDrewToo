@@ -2,7 +2,7 @@
 
 Mobile developer building real-time community and marketplace platforms.
 
-I design and ship production-ready mobile systems that connect people, enable real-time interaction, and power local communities.
+I design production-ready mobile systems that connect people, enable real-time interaction, and power local communities.
 
 ---
 
