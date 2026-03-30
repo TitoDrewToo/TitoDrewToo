@@ -1,8 +1,18 @@
 # Hi, I’m Andrew Vincent 👋
 
-Mobile developer building real-time community and marketplace platforms.
+building structured intelligence and real-time systems.
 
-I design production-ready mobile systems that connect people, enable real-time interaction, and power local communities.
+I design production-ready platforms that transform unstructured inputs into usable data, enabling better decisions, automation, and scalable workflows.
+
+Current focus:
+• AVInt — structured document intelligence and analytics
+• Hooper — real-time community coordination platform
+• PicklePal - Social venue management platform
+• systems combining AI, data normalization, and real-time infrastructure
+
+Interested in building tools that simplify complexity and make information more actionable.
+
+Tech: React, React Native, Supabase, PostgreSQL, OpenAI APIs
 
 ---
 
