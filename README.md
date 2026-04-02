@@ -5,7 +5,7 @@ building structured intelligence and real-time systems.
 I design production-ready platforms that transform unstructured inputs into usable data, enabling better decisions, automation, and scalable workflows.
 
 Current focus:
-• AVInt — structured document intelligence and analytics
+• AVIntelligence — structured document intelligence and analytics
 • Hooper — real-time community coordination platform
 • PicklePal - Social venue management platform
 • systems combining AI, data normalization, and real-time infrastructure
