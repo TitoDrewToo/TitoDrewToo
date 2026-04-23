@@ -31,6 +31,7 @@ Repo: https://github.com/TitoDrewToo/picklepal-app
 
 - PostgreSQL and Supabase: schema design, row-level data isolation, realtime
 - Next.js, React, React Native, TypeScript
+- Google Cloud: Cloud Run, Artifact Registry, Secret Manager, IAM, and container deployment for backend services
 - Analytics dashboards and reporting systems
 - Payment and subscription workflow integrations
 - Marketplace and booking platforms
