@@ -13,6 +13,13 @@ AI-powered financial document workspace. Uploads become organized records, dashb
 
 Repo: https://github.com/TitoDrewToo/AVInt
 
+### Chroma Fairy
+Immersive contemporary artist platform for Samantha Ty — a living online gallery with curated collections, exhibitions, press, commissions, artwork inquiries, and studio workflows for managing the catalogue and client relationships.
+
+**Tech:** Next.js · React · TypeScript · Supabase · WebGL and motion design · responsive media systems
+
+Live build: https://www.avintph.com/products/chroma-fairy
+
 ### Hooper
 Real-time basketball community platform — live player check-ins, court discovery, location-aware coordination, and threaded messaging.
 
