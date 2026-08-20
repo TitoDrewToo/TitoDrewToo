@@ -7,9 +7,17 @@ I design production platforms that turn unstructured inputs into structured data
 ## Current Focus
 
 ### AVIntelligence — flagship
-AI-powered financial document workspace. Uploads become organized records, dashboards, and reports — expense summaries, income summaries, profit & loss, business expenses, contract summaries, key terms, and tax bundle workflows.
+AI-powered document operations platform for financial workflows.
 
-**Tech:** Next.js · React · TypeScript · Supabase · PostgreSQL · analytics dashboards
+Smart Storage ingests receipts, invoices, payslips, contracts, spreadsheets, and related records, then applies defensive screening, structured extraction, normalization, and account-isolated storage.
+
+Reports turn those records into usable outputs — expense and income summaries, profit & loss views, business expense reports, contract and key-term summaries, Schedule C-oriented tax bundle workflows, and QuickBooks/Xero-compatible exports. Source documents, extracted fields, processing status, review context, and provenance are preserved so outputs can be inspected rather than treated as opaque AI answers. Smart Dashboard adds an AI-contextualized view of the user’s own records.
+
+The platform is also proof-of-work for configurable document-to-output systems: secure ingestion, structured processing, reporting, and workflow automation adapted to a specific domain.
+
+**Engineering:** Multi-tenant workflows · RLS-backed data isolation · server-side document processing · AI provider fallback · file safety screening · structured report generation · accounting exports · Claude/MCP connectivity
+
+**Tech:** Next.js · React · TypeScript · Supabase · PostgreSQL · AI extraction pipelines · analytics dashboards
 
 Repo: https://github.com/TitoDrewToo/AVInt
 
